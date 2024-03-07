@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ron
+Hi 👋 My name is Ron
 ===========================================================================================================================
 
-Frontend Web Developer
+A Frontend Web Developer
 ----------------------
 
 Through hundreds of hours of online courses, community forums, and real-world practice, I have acquired a strong proficiency in JavaScript, HTML, and CSS, and frameworks like React.js and Angular.ts My portfolio (link included) showcases a range of projects that I believe reflect my capabilities and the value I can bring to your team. I am eager to bring my skills to your team, contributing and furthering starting aprofessional career within a supportive and visionary environment.
